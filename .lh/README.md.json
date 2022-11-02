@@ -1,0 +1,26 @@
+{
+    "sourceFile": "README.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 2,
+            "patches": [
+                {
+                    "date": 1667415845353,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1667415865670,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -67,9 +67,9 @@\n - Sprints\n \n # Responsibilities\n \n-Webpage + JS\n+### Webpage + JS\n \n > James Meurer JAMESMEURER@mail.adelphi.edu\n >\n > Ruben Laureta RUBENLAURETA@mail.adelphi.edu\n"
+                },
+                {
+                    "date": 1667415871085,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -67,9 +67,9 @@\n - Sprints\n \n # Responsibilities\n \n-### Webpage + JS\n+# Webpage + JS\n \n > James Meurer JAMESMEURER@mail.adelphi.edu\n >\n > Ruben Laureta RUBENLAURETA@mail.adelphi.edu\n"
+                }
+            ],
+            "date": 1667415845353,
+            "name": "Commit-0",
+            "content": "# AnimalAdoptionWeb\n\nAdelphi - Fall 2022: Software Engineering Web-based application project\nThis project is separated into three parts, which are webpages, PHP connections, and Database.\n\n# Team members\n\nJames Meurer\n\nYuan-Hsuan Lin\n\nAlex Mahase\n\nRuben Laureta\n\nAndrew Fuchs\n\n# Topic\n\nAnimal adoption website\n\n# Requirements\n\n1. Multi-user levels and platforms\n\n> Admin: Modify user data and levels\n>\n> Manager: Modify website content\n>\n> User: Can view website content and adopt\n>\n> Guest: Can view website but can NOT adopt\n\n2. Database\n\n- functions\n  - Add/create\n  - Delete\n  - Query\n  - Update\n- ER model\n\n3. PHP connection\n\n- Privacy (for users)\n  - When transferring user's data\n- Security (for web)\n  - When connecting to DB\n- Accuracy (check input data is valid)\n- Web-DB interaction\n\n4. Document\n\n- Product backlog\n- Testing plans/results\n\n5. Video\n\n- Due Tue, Dec 6, 2022\n- Upload to YT\n- Link:\n\n6. Other requirements\n\n- Github (for tracking progress)\n- Agile development workflow\n- Sprints\n\n# Responsibilities\n\nWebpage + JS\n\n> James Meurer JAMESMEURER@mail.adelphi.edu\n>\n> Ruben Laureta RUBENLAURETA@mail.adelphi.edu\n\n# PHP\n\n> Andrew Fuchs ANDREWFUCHS@mail.adelphi.edu\n>\n> Alex Mahase ALEXMAHASE@mail.adelphi.edu\n\n# DB + Testing + All doc\n\n> Yuan-Hsuan Lin YUANHSUANLIN@mail.adelphi.edu\n"
+        }
+    ]
+}

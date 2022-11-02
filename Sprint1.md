@@ -20,13 +20,13 @@
 >
 > List the possible queries user may use
 
-#### PHP (Alex and Yuan-Hsuan)
+#### PHP (Alex and Andrew)
 
 > Multi-user filter
 >
 > List the permissions of each user level
 
-#### DB (Andrew)
+#### DB (Yuan-Hsuan)
 
 > Finish creating the DB
 

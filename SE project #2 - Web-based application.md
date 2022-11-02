@@ -2,19 +2,19 @@
 
 ### Team members
 
-James Meurer JAMESMEURER@mail.adelphi.edu
+James Meurer
 
-Yuan-Hsuan Lin YUANHSUANLIN@mail.adelphi.edu
+Yuan-Hsuan Lin
 
-Alex Mahase ALEXMAHASE@mail.adelphi.edu
+Alex Mahase
 
-Ruben Laureta RUBENLAURETA@mail.adelphi.edu
+Ruben Laureta
 
-Andrew Fuchs ANDREWFUCHS@mail.adelphi.edu
+Andrew Fuchs
 
 ### Topic
 
-##### ==**Animal adoption website**==
+##### **Animal adoption website**
 
 ### Requirements
 

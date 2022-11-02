@@ -1,0 +1,162 @@
+{
+    "sourceFile": "Sprint1.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 36,
+            "patches": [
+                {
+                    "date": 1667410085204,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1667410096688,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,1 @@\n-\n+For sprint 1,\n"
+                },
+                {
+                    "date": 1667410117965,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,3 @@\n-For sprint 1,\n+# Sprint #1\n+\n+Duration\n"
+                },
+                {
+                    "date": 1667410243909,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,3 +1,9 @@\n # Sprint #1\n \n-Duration\n+**Duration: Nov 2, 2022 ~ Nov 11, 2022**\n+\n+Goal:\n+\n+#### HTML: \n+\n+>  Main page done\n"
+                },
+                {
+                    "date": 1667410296335,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,7 +3,15 @@\n **Duration: Nov 2, 2022 ~ Nov 11, 2022**\n \n Goal:\n \n-#### HTML: \n+#### Everyone\n \n+> Learn/review the commands of github\n+\n+#### HTML\n+\n >  Main page done\n+\n+\n+\n+### PHP\n"
+                },
+                {
+                    "date": 1667410346665,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,13 @@\n \n #### Everyone\n \n > Learn/review the commands of github\n+>\n+> **Everything of this project should be \"pull\" to github\n \n+\n+\n #### HTML\n \n >  Main page done\n \n"
+                },
+                {
+                    "date": 1667410355575,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -7,9 +7,9 @@\n #### Everyone\n \n > Learn/review the commands of github\n >\n-> **Everything of this project should be \"pull\" to github\n+> **Everything of this project should be \"pull\" to github by the end of \n \n \n \n #### HTML\n"
+                },
+                {
+                    "date": 1667410364237,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -7,9 +7,9 @@\n #### Everyone\n \n > Learn/review the commands of github\n >\n-> **Everything of this project should be \"pull\" to github by the end of \n+> **Everything of this project should be \"pull\" to github by the end of each sprint\n \n \n \n #### HTML\n"
+                },
+                {
+                    "date": 1667410377818,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -7,9 +7,9 @@\n #### Everyone\n \n > Learn/review the commands of github\n >\n-> **Everything of this project should be \"pull\" to github by the end of each sprint\n+> ** Everything of this project should be \"pull\" to github \n \n \n \n #### HTML\n"
+                },
+                {
+                    "date": 1667410391947,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -5,9 +5,10 @@\n Goal:\n \n #### Everyone\n \n-> Learn/review the commands of github\n+> 1. Learn or review the commands of git\n+> 2. \n >\n > ** Everything of this project should be \"pull\" to github \n \n \n"
+                },
+                {
+                    "date": 1667410459500,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,9 +1,9 @@\n # Sprint #1\n \n **Duration: Nov 2, 2022 ~ Nov 11, 2022**\n \n-Goal:\n+*By the end of this sprint, all things below should be done.*\n \n #### Everyone\n \n > 1. Learn or review the commands of git\n"
+                },
+                {
+                    "date": 1667410536421,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -12,11 +12,11 @@\n > ** Everything of this project should be \"pull\" to github \n \n \n \n-#### HTML\n+#### HTML (James and Ruben)\n \n >  Main page done\n \n \n \n-### PHP\n+### PHP (Alex and )\n"
+                },
+                {
+                    "date": 1667410630393,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -18,5 +18,13 @@\n >  Main page done\n \n \n \n-### PHP (Alex and )\n+### PHP (Alex and Andrew)\n+\n+> Multi-user filter\n+\n+\n+\n+#### DB (Yuan-)\n+\n+> Create the whole DB\n"
+                },
+                {
+                    "date": 1667410643154,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -16,15 +16,13 @@\n #### HTML (James and Ruben)\n \n >  Main page done\n \n+#### PHP (Alex and Andrew)\n \n-\n-### PHP (Alex and Andrew)\n-\n > Multi-user filter\n \n \n \n-#### DB (Yuan-)\n+#### DB (Yuan-Hsuan)\n \n > Create the whole DB\n"
+                },
+                {
+                    "date": 1667410666766,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,8 +3,12 @@\n **Duration: Nov 2, 2022 ~ Nov 11, 2022**\n \n *By the end of this sprint, all things below should be done.*\n \n+---\n+\n+## Goals for Sprint \n+\n #### Everyone\n \n > 1. Learn or review the commands of git\n > 2. \n@@ -16,8 +20,10 @@\n #### HTML (James and Ruben)\n \n >  Main page done\n \n+\n+\n #### PHP (Alex and Andrew)\n \n > Multi-user filter\n \n"
+                },
+                {
+                    "date": 1667410677574,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -5,9 +5,9 @@\n *By the end of this sprint, all things below should be done.*\n \n ---\n \n-## Goals for Sprint \n+## Goals for Sprint #1\n \n #### Everyone\n \n > 1. Learn or review the commands of git\n"
+                },
+                {
+                    "date": 1667410696029,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -10,9 +10,8 @@\n \n #### Everyone\n \n > 1. Learn or review the commands of git\n-> 2. \n >\n > ** Everything of this project should be \"pull\" to github \n \n \n@@ -30,5 +29,7 @@\n \n \n #### DB (Yuan-Hsuan)\n \n-> Create the whole DB\n+> Create the whole DB \n+\n+##\n"
+                },
+                {
+                    "date": 1667410728815,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -31,5 +31,7 @@\n #### DB (Yuan-Hsuan)\n \n > Create the whole DB \n \n-##\n+## Warning\n+\n+1. All files created in this\n"
+                },
+                {
+                    "date": 1667410771734,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -33,5 +33,5 @@\n > Create the whole DB \n \n ## Warning\n \n-1. All files created in this\n+1. All files created in this sprint should be \"pull\" to **Sprint1** branch\n"
+                },
+                {
+                    "date": 1667410797270,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -33,5 +33,6 @@\n > Create the whole DB \n \n ## Warning\n \n-1. All files created in this sprint should be \"pull\" to **Sprint1** branch\n+1. All files created in this sprint should be \"pull\" to **Sprint1** branch (do not do your work in main branch)\n+2.\n"
+                },
+                {
+                    "date": 1667410834146,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -24,14 +24,13 @@\n \n #### PHP (Alex and Andrew)\n \n > Multi-user filter\n+>\n \n-\n-\n #### DB (Yuan-Hsuan)\n \n-> Create the whole DB \n+> Finish creating the DB\n \n ## Warning\n \n 1. All files created in this sprint should be \"pull\" to **Sprint1** branch (do not do your work in main branch)\n"
+                },
+                {
+                    "date": 1667410947465,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -25,8 +25,9 @@\n #### PHP (Alex and Andrew)\n \n > Multi-user filter\n >\n+> List the permissions of each user level\n \n #### DB (Yuan-Hsuan)\n \n > Finish creating the DB\n"
+                },
+                {
+                    "date": 1667410959245,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -17,9 +17,10 @@\n \n \n #### HTML (James and Ruben)\n \n->  Main page done\n+> Main page done\n+>\n \n \n \n #### PHP (Alex and Andrew)\n"
+                },
+                {
+                    "date": 1667411013226,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -19,8 +19,9 @@\n #### HTML (James and Ruben)\n \n > Main page done\n >\n+> List the possible queries user may use\n \n \n \n #### PHP (Alex and Andrew)\n"
+                },
+                {
+                    "date": 1667411031298,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,10 +3,8 @@\n **Duration: Nov 2, 2022 ~ Nov 11, 2022**\n \n *By the end of this sprint, all things below should be done.*\n \n----\n-\n ## Goals for Sprint #1\n \n #### Everyone\n \n"
+                },
+                {
+                    "date": 1667411139389,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -31,8 +31,8 @@\n #### DB (Yuan-Hsuan)\n \n > Finish creating the DB\n \n-## Warning\n+## Reminder\n \n 1. All files created in this sprint should be \"pull\" to **Sprint1** branch (do not do your work in main branch)\n 2.\n"
+                },
+                {
+                    "date": 1667411146840,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -31,8 +31,8 @@\n #### DB (Yuan-Hsuan)\n \n > Finish creating the DB\n \n-## Reminder\n+## Reminders\n \n 1. All files created in this sprint should be \"pull\" to **Sprint1** branch (do not do your work in main branch)\n 2.\n"
+                },
+                {
+                    "date": 1667411154403,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -31,8 +31,10 @@\n #### DB (Yuan-Hsuan)\n \n > Finish creating the DB\n \n+\n+\n ## Reminders\n \n 1. All files created in this sprint should be \"pull\" to **Sprint1** branch (do not do your work in main branch)\n 2.\n"
+                },
+                {
+                    "date": 1667411196366,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -7,10 +7,12 @@\n ## Goals for Sprint #1\n \n #### Everyone\n \n-> 1. Learn or review the commands of git\n+> Learn or review the commands of git\n >\n+> Reference book for git: [https://www.stilson.net/documentation/Version%20Control%20with%20Git,%202nd%20Edition.pdf](https://www.stilson.net/documentation/Version%20Control%20with%20Git,%202nd%20Edition.pdf)\n+>\n > ** Everything of this project should be \"pull\" to github \n \n \n \n"
+                },
+                {
+                    "date": 1667411342783,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,9 +11,10 @@\n > Learn or review the commands of git\n >\n > Reference book for git: [https://www.stilson.net/documentation/Version%20Control%20with%20Git,%202nd%20Edition.pdf](https://www.stilson.net/documentation/Version%20Control%20with%20Git,%202nd%20Edition.pdf)\n >\n-> ** Everything of this project should be \"pull\" to github \n+>\n+> ** Everything of this project should be \"push\" to github\n \n \n \n #### HTML (James and Ruben)\n@@ -37,6 +38,6 @@\n \n \n ## Reminders\n \n-1. All files created in this sprint should be \"pull\" to **Sprint1** branch (do not do your work in main branch)\n+1. All files created in this sprint should be \"push\" to **Sprint1** branch (do not do your work in main branch)\n 2.\n"
+                },
+                {
+                    "date": 1667411359943,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,9 +11,8 @@\n > Learn or review the commands of git\n >\n > Reference book for git: [https://www.stilson.net/documentation/Version%20Control%20with%20Git,%202nd%20Edition.pdf](https://www.stilson.net/documentation/Version%20Control%20with%20Git,%202nd%20Edition.pdf)\n >\n->\n > ** Everything of this project should be \"push\" to github\n \n \n \n@@ -38,6 +37,6 @@\n \n \n ## Reminders\n \n-1. All files created in this sprint should be \"push\" to **Sprint1** branch (do not do your work in main branch)\n+1. All files created in this sprint should be \"push\" to **Sprint1** branch (Please do not do your work in main branch)\n 2.\n"
+                },
+                {
+                    "date": 1667411366313,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -37,6 +37,6 @@\n \n \n ## Reminders\n \n-1. All files created in this sprint should be \"push\" to **Sprint1** branch (Please do not do your work in main branch)\n+1. All files created in this sprint should be \"push\" to **Sprint1** branch (Please do not push your work in main branch)\n 2.\n"
+                },
+                {
+                    "date": 1667411449696,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,7 +1,7 @@\n # Sprint #1\n \n-**Duration: Nov 2, 2022 ~ Nov 11, 2022**\n+**Duration: Nov 2, 2022 ~ Nov 12, 2022 7am**\n \n *By the end of this sprint, all things below should be done.*\n \n ## Goals for Sprint #1\n@@ -37,6 +37,6 @@\n \n \n ## Reminders\n \n-1. All files created in this sprint should be \"push\" to **Sprint1** branch (Please do not push your work in main branch)\n-2.\n+1. All files created in this sprint should be \"push\" to **Sprint1** branch (Please do not push your work to main branch)\n+2. All works should be finished and push to Sprint1 branch before\n"
+                },
+                {
+                    "date": 1667411518745,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -38,5 +38,5 @@\n \n ## Reminders\n \n 1. All files created in this sprint should be \"push\" to **Sprint1** branch (Please do not push your work to main branch)\n-2. All works should be finished and push to Sprint1 branch before\n+2. Everytime you push something, please add **reasonable commit**\n"
+                },
+                {
+                    "date": 1667411547491,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -38,5 +38,5 @@\n \n ## Reminders\n \n 1. All files created in this sprint should be \"push\" to **Sprint1** branch (Please do not push your work to main branch)\n-2. Everytime you push something, please add **reasonable commit**\n+2. Everytime you push something, please add **reasonable commit**, so all members can review them easily\n"
+                },
+                {
+                    "date": 1667411558659,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -38,5 +38,5 @@\n \n ## Reminders\n \n 1. All files created in this sprint should be \"push\" to **Sprint1** branch (Please do not push your work to main branch)\n-2. Everytime you push something, please add **reasonable commit**, so all members can review them easily\n+2. Everytime you push something, please add **reasonable commit**, so all members can review the updates easily\n"
+                },
+                {
+                    "date": 1667411568106,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -38,5 +38,5 @@\n \n ## Reminders\n \n 1. All files created in this sprint should be \"push\" to **Sprint1** branch (Please do not push your work to main branch)\n-2. Everytime you push something, please add **reasonable commit**, so all members can review the updates easily\n+2. Everytime you push something, please add **reasonable commit**, so all members can review the update easily\n"
+                }
+            ],
+            "date": 1667410085204,
+            "name": "Commit-0",
+            "content": "\n"
+        }
+    ]
+}

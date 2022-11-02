@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 37,
+            "activePatchIndex": 38,
             "patches": [
                 {
                     "date": 1667410085204,
@@ -156,6 +156,10 @@
                 {
                     "date": 1667415437545,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -13,30 +13,24 @@\n > Reference book for git: [https://www.stilson.net/documentation/Version%20Control%20with%20Git,%202nd%20Edition.pdf](https://www.stilson.net/documentation/Version%20Control%20with%20Git,%202nd%20Edition.pdf)\n >\n > ** Everything of this project should be \"push\" to github\n \n-\n-\n #### HTML (James and Ruben)\n \n > Main page done\n >\n > List the possible queries user may use\n \n+#### PHP (Alex and Yuan-Hsuan)\n \n-\n-#### PHP (Alex and Andrew)\n-\n > Multi-user filter\n >\n > List the permissions of each user level\n \n-#### DB (Yuan-Hsuan)\n+#### DB (Andrew)\n \n > Finish creating the DB\n \n-\n-\n ## Reminders\n \n 1. All files created in this sprint should be \"push\" to **Sprint1** branch (Please do not push your work to main branch)\n 2. Everytime you push something, please add **reasonable commit**, so all members can review the update easily\n"
+                },
+                {
+                    "date": 1667420300511,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,7 +1,7 @@\n # Sprint #1\n \n-**Duration: Nov 15, 2022 ~ Nov 21, 2022 7am** \n+**Duration: Nov 15, 2022 ~ Nov 21, 2022 7am (i need one day for testing)**\n \n *By the end of this sprint, all things below should be done.*\n \n ## Goals for Sprint #1\n"
                 }
             ],
             "date": 1667410085204,

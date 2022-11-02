@@ -1,6 +1,6 @@
 # Sprint #1
 
-**Duration: Nov 2, 2022 ~ Nov 12, 2022 7am**
+**Duration: Nov 15, 2022 ~ Nov 21, 2022 7am** 
 
 *By the end of this sprint, all things below should be done.*
 

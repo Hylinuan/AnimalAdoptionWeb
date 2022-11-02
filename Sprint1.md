@@ -1,6 +1,6 @@
 # Sprint #1
 
-**Duration: Nov 15, 2022 ~ Nov 21, 2022 7am (i need one day for testing)**
+**Duration: Nov 15, 2022 ~ Nov 22, 2022 7am (i need one day for testing)**
 
 *By the end of this sprint, all things below should be done.*
 

@@ -53,7 +53,7 @@ Andrew Fuchs
 
 5.  **Video**
 
-    >   ==Due Tue, Dec 6, 2022==
+    >   Due Tue, Dec 6, 2022
     >
     >   Upload to YT
 
@@ -65,7 +65,7 @@ Andrew Fuchs
 
 ### Responsibilities
 
-**==Webpage + JS + Product backlog==**
+**Webpage + JS + Product backlog**
 
 James Meurer JAMESMEURER@mail.adelphi.edu
 
@@ -73,7 +73,7 @@ Ruben Laureta RUBENLAURETA@mail.adelphi.edu
 
 
 
-**==PHP==**
+**PHP**
 
 Andrew Fuchs ANDREWFUCHS@mail.adelphi.edu
 
@@ -81,7 +81,7 @@ Alex Mahase ALEXMAHASE@mail.adelphi.edu
 
 
 
-==DB + Testing + Testing Plan==
+**DB + Testing + Testing Plan**
 
 Yuan-Hsuan Lin YUANHSUANLIN@mail.adelphi.edu
 

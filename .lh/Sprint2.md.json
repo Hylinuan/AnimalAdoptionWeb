@@ -3,11 +3,19 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 0,
+            "activePatchIndex": 2,
             "patches": [
                 {
                     "date": 1667420481274,
                     "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1667420561244,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,36 @@\n+# Sprint #2\n+\n+**Duration: Nov 22, 2022 ~ Nov 29, 2022 7am (i need one day for testing)**\n+\n+*By the end of this sprint, all things below should be done.*\n+\n+## Goals for Sprint #1\n+\n+#### Everyone\n+\n+> Learn or review the commands of git\n+>\n+> Reference book for git: [https://www.stilson.net/documentation/Version%20Control%20with%20Git,%202nd%20Edition.pdf](https://www.stilson.net/documentation/Version%20Control%20with%20Git,%202nd%20Edition.pdf)\n+>\n+> ** Everything of this project should be \"push\" to github\n+\n+#### HTML (James and Ruben)\n+\n+> Main page done\n+>\n+> List the possible queries user may use\n+\n+#### PHP (Alex and Yuan-Hsuan)\n+\n+> Multi-user filter\n+>\n+> List the permissions of each user level\n+\n+#### DB (Andrew)\n+\n+> Finish creating the DB\n+\n+## Reminders\n+\n+1. All files created in this sprint should be \"push\" to **Sprint1** branch (Please do not push your work to main branch)\n+2. Everytime you push something, please add **reasonable commit**, so all members can review the update easily\n"
+                },
+                {
+                    "date": 1667420570266,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,18 +3,10 @@\n **Duration: Nov 22, 2022 ~ Nov 29, 2022 7am (i need one day for testing)**\n \n *By the end of this sprint, all things below should be done.*\n \n-## Goals for Sprint #1\n+## Goals for Sprint #2\n \n-#### Everyone\n-\n-> Learn or review the commands of git\n->\n-> Reference book for git: [https://www.stilson.net/documentation/Version%20Control%20with%20Git,%202nd%20Edition.pdf](https://www.stilson.net/documentation/Version%20Control%20with%20Git,%202nd%20Edition.pdf)\n->\n-> ** Everything of this project should be \"push\" to github\n-\n #### HTML (James and Ruben)\n \n > Main page done\n >\n"
                 }
             ],
             "date": 1667420481274,

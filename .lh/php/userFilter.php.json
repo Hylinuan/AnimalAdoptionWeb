@@ -1,0 +1,22 @@
+{
+    "sourceFile": "php/userFilter.php",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 1,
+            "patches": [
+                {
+                    "date": 1667411781693,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1667411802315,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,1 @@\n+# rename the file if you want\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1667411781693,
+            "name": "Commit-0",
+            "content": ""
+        }
+    ]
+}

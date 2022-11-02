@@ -1,0 +1,18 @@
+{
+    "sourceFile": "SE project #2 - Web-based application.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1667405079726,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1667405079726,
+            "name": "Commit-0",
+            "content": "## SE project #2 - Web-based application\n\n### Team members\n\nJames Meurer JAMESMEURER@mail.adelphi.edu\n\nYuan-Hsuan Lin YUANHSUANLIN@mail.adelphi.edu\n\nAlex Mahase ALEXMAHASE@mail.adelphi.edu\n\nRuben Laureta RUBENLAURETA@mail.adelphi.edu\n\nAndrew Fuchs ANDREWFUCHS@mail.adelphi.edu\n\n### Topic\n\n##### ==**Animal adoption website**==\n\n### Requirements\n\n1.  **Multi-user levels and platforms**\n\n    >   Admin: Modify user data and levels\n    >\n    >   Manager: Modify website content\n    >\n    >   User: Can view website content and adopt\n    >\n    >   Guest: Can view website but can **NOT** adopt\n\n2.  **Database**\n\n    >   -   functions\n    >       -   Add/create\n    >       -   Delete\n    >       -   Query\n    >       -   Update\n    >   -   ER model\n\n3.  **PHP connection**\n\n    >   -   Privacy (for users)\n    >       -   When transferring user's data\n    >   -   Security (for web)\n    >       -   When connecting to DB\n    >   -   Accuracy (check input data is valid)\n    >   -   Web-DB interaction\n\n4.  **Document**\n\n    >   -   Product backlog\n    >   -   Testing plans/results\n\n5.  **Video**\n\n    >   ==Due Tue, Dec 6, 2022==\n    >\n    >   Upload to YT\n\n6.  **Other requirements**\n\n    >   -   Github (for tracking progress)\n    >   -   Agile development workflow\n    >       -   Sprints\n\n### Responsibilities\n\n**==Webpage + JS + Product backlog==**\n\nJames Meurer JAMESMEURER@mail.adelphi.edu\n\nRuben Laureta RUBENLAURETA@mail.adelphi.edu\n\n\n\n**==PHP==**\n\nAndrew Fuchs ANDREWFUCHS@mail.adelphi.edu\n\nAlex Mahase ALEXMAHASE@mail.adelphi.edu\n\n\n\n==DB + Testing + Testing Plan==\n\nYuan-Hsuan Lin YUANHSUANLIN@mail.adelphi.edu\n\n"
+        }
+    ]
+}

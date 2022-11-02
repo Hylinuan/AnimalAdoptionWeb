@@ -14,27 +14,21 @@
 >
 > ** Everything of this project should be "push" to github
 
-
-
 #### HTML (James and Ruben)
 
 > Main page done
 >
 > List the possible queries user may use
 
-
-
-#### PHP (Alex and Andrew)
+#### PHP (Alex and Yuan-Hsuan)
 
 > Multi-user filter
 >
 > List the permissions of each user level
 
-#### DB (Yuan-Hsuan)
+#### DB (Andrew)
 
 > Finish creating the DB
-
-
 
 ## Reminders
 

@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 36,
+            "activePatchIndex": 37,
             "patches": [
                 {
                     "date": 1667410085204,
@@ -152,6 +152,10 @@
                 {
                     "date": 1667411568106,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -38,5 +38,5 @@\n \n ## Reminders\n \n 1. All files created in this sprint should be \"push\" to **Sprint1** branch (Please do not push your work to main branch)\n-2. Everytime you push something, please add **reasonable commit**, so all members can review the updates easily\n+2. Everytime you push something, please add **reasonable commit**, so all members can review the update easily\n"
+                },
+                {
+                    "date": 1667415437545,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -13,30 +13,24 @@\n > Reference book for git: [https://www.stilson.net/documentation/Version%20Control%20with%20Git,%202nd%20Edition.pdf](https://www.stilson.net/documentation/Version%20Control%20with%20Git,%202nd%20Edition.pdf)\n >\n > ** Everything of this project should be \"push\" to github\n \n-\n-\n #### HTML (James and Ruben)\n \n > Main page done\n >\n > List the possible queries user may use\n \n+#### PHP (Alex and Yuan-Hsuan)\n \n-\n-#### PHP (Alex and Andrew)\n-\n > Multi-user filter\n >\n > List the permissions of each user level\n \n-#### DB (Yuan-Hsuan)\n+#### DB (Andrew)\n \n > Finish creating the DB\n \n-\n-\n ## Reminders\n \n 1. All files created in this sprint should be \"push\" to **Sprint1** branch (Please do not push your work to main branch)\n 2. Everytime you push something, please add **reasonable commit**, so all members can review the update easily\n"
                 }
             ],
             "date": 1667410085204,

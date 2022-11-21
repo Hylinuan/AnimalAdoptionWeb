@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 2,
+            "activePatchIndex": 9,
             "patches": [
                 {
                     "date": 1667420481274,
@@ -16,6 +16,34 @@
                 {
                     "date": 1667420570266,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,18 +3,10 @@\n **Duration: Nov 22, 2022 ~ Nov 29, 2022 7am (i need one day for testing)**\n \n *By the end of this sprint, all things below should be done.*\n \n-## Goals for Sprint #1\n+## Goals for Sprint #2\n \n-#### Everyone\n-\n-> Learn or review the commands of git\n->\n-> Reference book for git: [https://www.stilson.net/documentation/Version%20Control%20with%20Git,%202nd%20Edition.pdf](https://www.stilson.net/documentation/Version%20Control%20with%20Git,%202nd%20Edition.pdf)\n->\n-> ** Everything of this project should be \"push\" to github\n-\n #### HTML (James and Ruben)\n \n > Main page done\n >\n"
+                },
+                {
+                    "date": 1667422344729,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -7,11 +7,9 @@\n ## Goals for Sprint #2\n \n #### HTML (James and Ruben)\n \n-> Main page done\n->\n-> List the possible queries user may use\n+> Multi-user \n \n #### PHP (Alex and Yuan-Hsuan)\n \n > Multi-user filter\n"
+                },
+                {
+                    "date": 1667423373064,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -7,9 +7,9 @@\n ## Goals for Sprint #2\n \n #### HTML (James and Ruben)\n \n-> Multi-user \n+> Multi-user platform\n \n #### PHP (Alex and Yuan-Hsuan)\n \n > Multi-user filter\n"
+                },
+                {
+                    "date": 1669046386359,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,7 +1,7 @@\n # Sprint #2\n \n-**Duration: Nov 22, 2022 ~ Nov 29, 2022 7am (i need one day for testing)**\n+**Duration: Nov 22, 2022 ~ Nov 29, 2022 7am (I need one day for testing)**\n \n *By the end of this sprint, all things below should be done.*\n \n ## Goals for Sprint #2\n"
+                },
+                {
+                    "date": 1669046486225,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -9,18 +9,18 @@\n #### HTML (James and Ruben)\n \n > Multi-user platform\n \n-#### PHP (Alex and Yuan-Hsuan)\n+#### PHP (Alex and Andrew)\n \n > Multi-user filter\n >\n > List the permissions of each user level\n \n-#### DB (Andrew)\n+#### DB (Yuan-Hsuan)\n \n-> Finish creating the DB\n+> Testing plan \n \n ## Reminders\n \n-1. All files created in this sprint should be \"push\" to **Sprint1** branch (Please do not push your work to main branch)\n+1. All files created in this sprint should be \"push\" to **Sprint2** branch (Please do not push your work to main branch)\n 2. Everytime you push something, please add **reasonable commit**, so all members can review the update easily\n"
+                },
+                {
+                    "date": 1669046587824,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,10 @@\n-# Sprint #2\n+# Sprint #2 \n \n **Duration: Nov 22, 2022 ~ Nov 29, 2022 7am (I need one day for testing)**\n \n+Having fun on Thanksgiving weekend\n+\n *By the end of this sprint, all things below should be done.*\n \n ## Goals for Sprint #2\n \n"
+                },
+                {
+                    "date": 1669046628648,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,9 +1,9 @@\n # Sprint #2 \n \n **Duration: Nov 22, 2022 ~ Nov 29, 2022 7am (I need one day for testing)**\n \n-Having fun on Thanksgiving weekend\n+Happy Thanksgiving!\n \n *By the end of this sprint, all things below should be done.*\n \n ## Goals for Sprint #2\n"
+                },
+                {
+                    "date": 1669046750898,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -15,9 +15,9 @@\n #### PHP (Alex and Andrew)\n \n > Multi-user filter\n >\n-> List the permissions of each user level\n+> Password can be transferred privately\n \n #### DB (Yuan-Hsuan)\n \n > Testing plan \n"
                 }
             ],
             "date": 1667420481274,

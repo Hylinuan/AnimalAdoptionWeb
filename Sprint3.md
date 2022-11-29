@@ -36,7 +36,7 @@
 >
 > Admin classify
 >
-> Error 
+> Error display
 
 ## Reminders
 

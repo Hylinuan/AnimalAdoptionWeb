@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 11,
+            "activePatchIndex": 12,
             "patches": [
                 {
                     "date": 1669734625765,
@@ -52,6 +52,10 @@
                 {
                     "date": 1669759456026,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -34,8 +34,10 @@\n >\n > Pet searching\n >\n > Admin classify\n+>\n+> Error \n \n ## Reminders\n \n 1. All files created in this sprint should be \"push\" to **Sprint2** branch (Please do not push your work to main branch)\n"
+                },
+                {
+                    "date": 1669759478987,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -35,9 +35,9 @@\n > Pet searching\n >\n > Admin classify\n >\n-> Error \n+> Error display\n \n ## Reminders\n \n 1. All files created in this sprint should be \"push\" to **Sprint2** branch (Please do not push your work to main branch)\n"
                 }
             ],
             "date": 1669734625765,

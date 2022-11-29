@@ -12,6 +12,10 @@
 >
 > *Try to make the video brief, don't make things difficult for Ruben*
 
+#### HTML (James and Ruben)
+
+> Encrypt the password form on html
+
 #### Images (James)
 
 > Images for animals and add them to the html
@@ -22,7 +26,15 @@
 
 #### PHP (Alex, Andrew, and Yuan-Hsuan)
 
-> Complete all PHP part
+> Sign in
+>
+> Sign up
+>
+> Login
+>
+> Pet searching
+>
+> Admin classify
 
 ## Reminders
 

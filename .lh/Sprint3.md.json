@@ -3,11 +3,23 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 0,
+            "activePatchIndex": 3,
             "patches": [
                 {
                     "date": 1669734625765,
                     "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1669734973708,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,26 @@\n+# Sprint #3\n+\n+**Duration: Nov 29, 2022 ~ Dec 6, 2022 7am (I need one day for testing)**\n+\n+*By the end of this sprint, all things below should be done.*\n+\n+## Goals for Sprint #3\n+\n+#### Images (James)\n+\n+> Images for animals and add them to the \n+\n+#### PHP (Alex and Andrew)\n+\n+> Multi-user filter\n+>\n+> Password can be transferred privately\n+\n+#### DB (Yuan-Hsuan)\n+\n+> Testing plan\n+\n+## Reminders\n+\n+1. All files created in this sprint should be \"push\" to **Sprint2** branch (Please do not push your work to main branch)\n+2. Everytime you push something, please add **reasonable commit**, so all members can review the update easily\n"
+                },
+                {
+                    "date": 1669735110765,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -5,21 +5,21 @@\n *By the end of this sprint, all things below should be done.*\n \n ## Goals for Sprint #3\n \n+#### Everyone\n+\n #### Images (James)\n \n-> Images for animals and add them to the \n+> Images for animals and add them to the html\n \n-#### PHP (Alex and Andrew)\n+#### Video (Ruben)\n \n-> Multi-user filter\n->\n-> Password can be transferred privately\n+> working on the final video\n \n-#### DB (Yuan-Hsuan)\n+#### PHP (Alex, Andrew, and Yuan-Hsuan)\n \n-> Testing plan\n+> Complete all PHP part\n \n ## Reminders\n \n 1. All files created in this sprint should be \"push\" to **Sprint2** branch (Please do not push your work to main branch)\n"
+                },
+                {
+                    "date": 1669735189720,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -7,8 +7,12 @@\n ## Goals for Sprint #3\n \n #### Everyone\n \n+> Please record a small video for introducing your own part\n+>\n+> *Try to make the video brief, don't make things difficult for Ruben*\n+\n #### Images (James)\n \n > Images for animals and add them to the html\n \n"
                 }
             ],
             "date": 1669734625765,

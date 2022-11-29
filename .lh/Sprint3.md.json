@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 3,
+            "activePatchIndex": 4,
             "patches": [
                 {
                     "date": 1669734625765,
@@ -20,6 +20,10 @@
                 {
                     "date": 1669735189720,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -7,8 +7,12 @@\n ## Goals for Sprint #3\n \n #### Everyone\n \n+> Please record a small video for introducing your own part\n+>\n+> *Try to make the video brief, don't make things difficult for Ruben*\n+\n #### Images (James)\n \n > Images for animals and add them to the html\n \n"
+                },
+                {
+                    "date": 1669735501644,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -7,9 +7,9 @@\n ## Goals for Sprint #3\n \n #### Everyone\n \n-> Please record a small video for introducing your own part\n+> Please record a small video for introducing your own part and send it to Ruben before Saturday\n >\n > *Try to make the video brief, don't make things difficult for Ruben*\n \n #### Images (James)\n"
                 }
             ],
             "date": 1669734625765,

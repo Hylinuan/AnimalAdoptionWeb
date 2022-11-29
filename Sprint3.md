@@ -8,7 +8,7 @@
 
 #### Everyone
 
-> Please record a small video for introducing your own part
+> Please record a small video for introducing your own part and send it to Ruben before Saturday
 >
 > *Try to make the video brief, don't make things difficult for Ruben*
 

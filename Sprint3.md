@@ -12,31 +12,39 @@
 >
 > *Try to make the video brief, don't make things difficult for Ruben*
 
-#### HTML (James and Ruben)
-
-> Encrypt the password form on html
-
 #### Images (James)
 
-> Images for animals and add them to the html
+> ~~Images and info for animals~~
 
-#### Video (Ruben)
+#### Video (Andrew)
 
 > working on the final video
 
-#### PHP (Alex, Andrew, and Yuan-Hsuan)
+#### PHP (Alex, Ruben and Yuan-Hsuan)
 
-> Sign in
+> login + security
 >
-> Sign up
+> homepage + search
 >
-> Login
+> user information, display adopted pets
 >
-> Pet searching
+> pet page + adopt button, will update ad_sts and assign pet to user
 >
-> Admin classify
+> admin, add adoption status
 >
-> Error display
+> move username to the top
+>
+> add edit option to the admin page
+
+#### Database (Yuan-Hsuan)
+
+> pet id
+
+#### Document (Andrew)
+
+> Product backlog (user stories)
+>
+> Test plan
 
 ## Reminders
 

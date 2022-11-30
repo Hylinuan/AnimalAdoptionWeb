@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 12,
+            "activePatchIndex": 17,
             "patches": [
                 {
                     "date": 1669734625765,
@@ -56,6 +56,26 @@
                 {
                     "date": 1669759478987,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -35,9 +35,9 @@\n > Pet searching\n >\n > Admin classify\n >\n-> Error \n+> Error display\n \n ## Reminders\n \n 1. All files created in this sprint should be \"push\" to **Sprint2** branch (Please do not push your work to main branch)\n"
+                },
+                {
+                    "date": 1669759629782,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -14,8 +14,9 @@\n \n #### HTML (James and Ruben)\n \n > Encrypt the password form on html\n+>\n \n #### Images (James)\n \n > Images for animals and add them to the html\n"
+                },
+                {
+                    "date": 1669759694738,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -15,8 +15,9 @@\n #### HTML (James and Ruben)\n \n > Encrypt the password form on html\n >\n+> Admin page (create some invisible function)\n \n #### Images (James)\n \n > Images for animals and add them to the html\n"
+                },
+                {
+                    "date": 1669759919364,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -15,9 +15,9 @@\n #### HTML (James and Ruben)\n \n > Encrypt the password form on html\n >\n-> Admin page (create some invisible function)\n+> Admin page (create some invisible function so that php could set it visible when the admin )\n \n #### Images (James)\n \n > Images for animals and add them to the html\n@@ -33,8 +33,10 @@\n > Sign up\n >\n > Login\n >\n+> Log \n+>\n > Pet searching\n >\n > Admin classify\n >\n"
+                },
+                {
+                    "date": 1669761979873,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -31,9 +31,9 @@\n > Sign in\n >\n > Sign up\n >\n-> Login\n+> Log in\n >\n > Log out\n >\n > Pet searching\n"
+                },
+                {
+                    "date": 1669766211285,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,12 +11,8 @@\n > Please record a small video for introducing your own part and send it to Ruben before Saturday\n >\n > *Try to make the video brief, don't make things difficult for Ruben*\n \n-#### HTML (James)\n-\n-> Encrypt the password form on html\n-\n #### Images (James)\n \n > Images for animals and add them to the html\n \n@@ -39,8 +35,10 @@\n > Admin classify\n >\n > Error display\n \n+#### Document\n+\n ## Reminders\n \n 1. All files created in this sprint should be \"push\" to **Sprint2** branch (Please do not push your work to main branch)\n 2. Everytime you push something, please add **reasonable commit**, so all members can review the update easily\n"
                 }
             ],
             "date": 1669734625765,

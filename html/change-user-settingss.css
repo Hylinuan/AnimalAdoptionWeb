@@ -1,0 +1,91 @@
+.change-user-settingss-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.change-user-settingss-form {
+  width: 1082px;
+  height: 860px;
+  position: relative;
+  align-self: center;
+}
+.change-user-settingss-input {
+  top: 460px;
+  left: 4px;
+  width: 424px;
+  height: 94px;
+  position: absolute;
+  text-align: center;
+}
+.change-user-settingss-text {
+  top: 24px;
+  left: 330px;
+  width: 374px;
+  height: 78px;
+  position: absolute;
+  text-align: center;
+}
+.change-user-settingss-button {
+  top: 661px;
+  left: 372px;
+  color: rgb(0, 0, 0);
+  width: 326px;
+  height: 53px;
+  position: absolute;
+  text-align: center;
+  padding-bottom: 13px;
+}
+.change-user-settingss-input1 {
+  top: 277px;
+  left: -2px;
+  width: 423px;
+  height: 94px;
+  position: absolute;
+  text-align: center;
+  padding-right: var(--dl-space-space-unit);
+}
+.change-user-settingss-input2 {
+  top: 114px;
+  left: 1px;
+  width: 413px;
+  height: 94px;
+  position: absolute;
+  text-align: center;
+}
+.change-user-settingss-input3 {
+  top: 608px;
+  left: 10px;
+  width: 424px;
+  height: 94px;
+  position: absolute;
+  text-align: center;
+}
+@media(max-width: 1200px) {
+  .change-user-settingss-form {
+    width: 644px;
+    height: 466px;
+  }
+  .change-user-settingss-input {
+    top: 102px;
+    right: 16px;
+  }
+  .change-user-settingss-text {
+    top: 17px;
+    left: 152px;
+  }
+  .change-user-settingss-input1 {
+    top: 102px;
+    right: 16px;
+  }
+  .change-user-settingss-input2 {
+    top: 102px;
+    right: 16px;
+  }
+  .change-user-settingss-input3 {
+    top: 102px;
+    right: 16px;
+  }
+}

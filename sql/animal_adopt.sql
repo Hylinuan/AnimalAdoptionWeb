@@ -20,6 +20,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `animal_adopt`
 --
+CREATE Database animal_adopt;
+USE animal_adopt;
 
 -- --------------------------------------------------------
 

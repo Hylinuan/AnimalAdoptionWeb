@@ -266,15 +266,14 @@
             $sql = "DELETE FROM `userInfo` WHERE `userInfo`.`userID` = '{$id}';";
 
             $result = $conn->query($sql);
-          $row = $result->fetch_all();
             // echo "<script>alert('{$row[0][2]}')</script>";
             if ($conn->query($sql) === TRUE) {
-              echo "Record deleted successfully";
+              echo "Record deleted successfully.";
             } else {
               echo "Error deleting record: " . $conn->error;
             }
             $conn->close();
-            header("Refresh:0;");
+            //header("Refresh:0;");
 
 
 
@@ -287,15 +286,14 @@
         $sql = "DELETE FROM `animalBI` WHERE `animalBI`.`id` = {$id};";
 
         $result = $conn->query($sql);
-      $row = $result->fetch_all();
         // echo "<script>alert('{$row[0][2]}')</script>";
         if ($conn->query($sql) === TRUE) {
-          echo "Record deleted successfully";
+          echo "Record deleted successfully.";
         } else {
           echo "Error deleting record: " . $conn->error;
         }
         $conn->close();
-        header("Refresh:0;");
+        //header("Refresh:0;");
       }
     }catch (Exception $e) {
       echo 'Caught exception: ',  $e->getMessage(), "\n";

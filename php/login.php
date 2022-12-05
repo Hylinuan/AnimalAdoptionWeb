@@ -1,6 +1,7 @@
 <?php
     session_start();
 
+    if (isset($_SESSION['role'])){
     $usrRole = $_SESSION["role"];
     $admin = "admin";
     $user = "user";
@@ -14,6 +15,7 @@
     }
 
     session_write_close();
+    }
 ?>
 
 <!DOCTYPE html>

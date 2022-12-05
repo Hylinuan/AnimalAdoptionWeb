@@ -182,7 +182,6 @@
   align-items: flex-start;
   flex-direction: row;
   justify-content: space-between;
-  margin-top: var(--dl-space-space-fourunits);
   padding-bottom: var(--dl-space-space-fourunits);
   background-color: #5a7482;
 }

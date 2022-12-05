@@ -200,7 +200,7 @@
 
 
       if (isset($_POST['animal'])) {
-        header("Refresh:0;");
+        //header("Refresh:0;");
         $dbname = "animal_adopt"; // database name
 
       // Create connection
@@ -247,7 +247,7 @@
                   </div>";
 
             $conn->close();
-            header("Refresh:0;");
+            //header("Refresh:0;");
           }
       if(isset($_POST['edit'])){
         $servername = "localhost";

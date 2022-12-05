@@ -1,6 +1,11 @@
 <?php
 session_start();
-$logbool = $_SESSION['logbool'];
+if (isset($_SESSION['logbool'])){
+  $logbool = $_SESSION['logbool'];
+} else {
+  $logbool = FALSE;
+}
+
  ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -50,6 +55,7 @@ $logbool = $_SESSION['logbool'];
     <style>
       html {
       scroll-behavior: smooth;
+
       }
     </style>
     <style data-section-id="dropdown">

@@ -164,7 +164,9 @@
         <p><?php
 
         // echo "Mysql DB Connected successfully...<br>";
+        if (isset($_POST['submit'])){
         $val = $_POST['submit'];
+        
         if ($val == 'Search'){
 
 
@@ -187,7 +189,12 @@
 
         else {
           $sql = "SELECT id, name, sp_name, gender, age, descrip, img FROM animalBI WHERE ad_sts = 'waiting' ";
+        } 
+
+        } else {
+          $sql = "SELECT id, name, sp_name, gender, age, descrip, img FROM animalBI WHERE ad_sts = 'waiting' ";
         }
+        
 
         // Animal Table
         // Define a variable in PHP

@@ -88,11 +88,8 @@
             <a href="./search.php" class="admin-our-pets">Our Pets</a>
             <a href="../html/team.html" class="admin-the-team">The Team</a>
           </div>
-          <a href="../html/login.html" class="admin-navlink1 button">Login</a>
+          <a href="login.php" class="admin-navlink1 button">Login</a>
         </div>
-
-
-
 
         <style>
          table, th, td {border: none;}
@@ -127,8 +124,8 @@
     <?php if (!isset($_POST['user']) && !isset($_POST['animal'])){ ?>
         <div id="content">
         <form action='./admin.php' method='post'>
-          <button type='submit' class='admin-button4 button' name='user' value='user'>Change to user</button>
-          <button type='submit' class='admin-button4 button' name='animal' value='animal'>Change to pet</button>
+          <button type='submit' class='admin-button4 button' name='user' value='user'>Change to User Editing</button>
+          <button type='submit' class='admin-button4 button' name='animal' value='animal'>Change to Animal Editing</button>
           <a href='logout.php' class='admin-button4 button'>Logout</a>
         </form>
         </div>
@@ -190,7 +187,7 @@
             }
             echo "</table>
                   <form action='./admin.php' method='post'>
-                    <button type='submit' class='admin-button4 button' name='animal' value='animal'>Change to pet</button>
+                    <button type='submit' class='admin-button4 button' name='animal' value='animal'>Change to Animal Editing</button>
                     <a href='logout.php' class='admin-button4 button'>Logout</a>
                   </form>
                   </div>";
@@ -240,7 +237,7 @@
             }
             echo "</table>
                   <form action='./admin.php' method='post'>
-                    <button type='submit' class='admin-button4 button' name='user' value='user'>Change to user</button>
+                    <button type='submit' class='admin-button4 button' name='user' value='user'>Change to User Editing</button>
                     <a href='logout.php' class='admin-button4 button'>Logout</a>
                   </form>
                   </div>

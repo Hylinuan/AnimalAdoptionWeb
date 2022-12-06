@@ -3,15 +3,15 @@ Adelphi - Fall 2022: Software Engineering Web-based application project
 This project is separated into three parts, which are webpages, PHP connections, and Database.
 
 # Team members
-James Meurer
-
-Yuan-Hsuan Lin
-
 Alex Mahase
+
+Andrew Fuchs
+
+James Meurer
 
 Ruben Laureta
 
-Andrew Fuchs
+Yuan-Hsuan Lin
 
 # Topic
 Animal adoption website
@@ -20,11 +20,9 @@ Animal adoption website
 1. Multi-user levels and platforms
   > Admin: Modify user data and levels
   > 
-  > Manager: Modify website content
-  >
   > User: Can view website content and adopt
   >
-  > Guest: Can view website but can NOT adopt
+  > Guest: Can view website but can not adopt
 
 2. Database
   - functions
@@ -55,7 +53,7 @@ Animal adoption website
   - Github (for tracking progress)
   - Agile development workflow
   - Sprints
- 
+
 # Responsibilities
 Webpage + JS + Product backlog
   >James Meurer JAMESMEURER@mail.adelphi.edu
@@ -67,7 +65,15 @@ Webpage + JS + Product backlog
   >Andrew Fuchs ANDREWFUCHS@mail.adelphi.edu
   >
   >Alex Mahase ALEXMAHASE@mail.adelphi.edu
+  >
+  >Yuan-Hsuan Lin YUANHSUANLIN@mail.adelphi.edu
+  >
+  >Ruben Laureta RUBENLAURETA@mail.adelphi.edu
 
-# DB + Testing + Testing Plan
+# DB
 
   >Yuan-Hsuan Lin YUANHSUANLIN@mail.adelphi.edu
+
+## Documentations
+
+>   Andrew Fuchs ANDREWFUCHS@mail.adelphi.edu

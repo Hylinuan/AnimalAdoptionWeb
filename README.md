@@ -50,7 +50,7 @@ Animal adoption website
 5. Video
   - Due Tue, Dec 6, 2022
   - Upload to YT
-  - Link: 
+  - Link: https://youtu.be/ctf1WguaWFQ
 
 6. Other requirements
 

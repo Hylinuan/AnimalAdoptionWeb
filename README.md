@@ -2,6 +2,10 @@
 Adelphi - Fall 2022: Software Engineering Web-based application project
 This project is separated into three parts, which are webpages, PHP connections, and Database.
 
+## Github
+
+>   Link: https://github.com/Hylinuan/AnimalAdoptionWeb
+
 # Team members
 Alex Mahase
 
@@ -18,11 +22,11 @@ Animal adoption website
 
 # Requirements
 1. Multi-user levels and platforms
-  > Admin: Modify user data and levels
-  > 
-  > User: Can view website content and adopt
-  >
-  > Guest: Can view website but can not adopt
+-   Admin: Modify user data and levels
+
+-   User: Can view website content and adopt
+
+-   Guest: Can view website but can not adopt
 
 2. Database
   - functions
@@ -66,14 +70,17 @@ Webpage + JS + Product backlog
   >
   >Alex Mahase ALEXMAHASE@mail.adelphi.edu
   >
+  >Ruben Laureta RUBENLAURETA@mail.adelphi.edu
+  >
   >Yuan-Hsuan Lin YUANHSUANLIN@mail.adelphi.edu
   >
-  >Ruben Laureta RUBENLAURETA@mail.adelphi.edu
 
 # DB
 
   >Yuan-Hsuan Lin YUANHSUANLIN@mail.adelphi.edu
 
-## Documentations
+## Documentation
 
 >   Andrew Fuchs ANDREWFUCHS@mail.adelphi.edu
+>
+>   James Meurer JAMESMEURER@mail.adelphi.edu
